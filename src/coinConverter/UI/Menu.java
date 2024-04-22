@@ -30,7 +30,7 @@ public class Menu {
             System.out.println("***************************************");
             System.out.println("Write the money to convert (in capital letter, ex. USD):");
             String currentMoney = scanner.nextLine().toUpperCase();
-            System.out.println("Write the money to convert (in capital letter, ex. USD):");
+            System.out.println("Write the money you want to convert to (in capital letter, ex. USD):");
             String newMoney = scanner.nextLine().toUpperCase();
             System.out.println("Write the amount to convert (write -1 to leave):");
             double valueToConvert = scanner.nextDouble();
