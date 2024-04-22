@@ -1,0 +1,14 @@
+[
+  {
+    "badgeToTransform": "ARS",
+    "valueToTransform": 25.0,
+    "badgeTransformed": "COP",
+    "valueTransformed": 113.14999999999999
+  },
+  {
+    "badgeToTransform": "USD",
+    "valueToTransform": 25.0,
+    "badgeTransformed": "COP",
+    "valueTransformed": 97847.41
+  }
+]
